@@ -1,2 +1,2 @@
-# przykladowa-strona
-https://paszak.github.io/przykladowa-strona/
+# Projekt-strony-2
+https://paszak.github.io/Projekt-strony-2/
